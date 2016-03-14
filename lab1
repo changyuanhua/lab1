@@ -1,0 +1,21 @@
+Script started on 2016年03月14日 (週一) 22時43分04秒
+]0;E64036211@2015cpp: ~/lab1[01;32mE64036211@2015cpp[00m:[01;34m~/lab1[00m$ whoami;pwd
+E64036211
+/home/E64036211/lab1
+]0;E64036211@2015cpp: ~/lab1[01;32mE64036211@2015cpp[00m:[01;34m~/lab1[00m$ git config -1[Kl'[K
+user.name=changyuanhua
+user.email=chang19960726@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+remote.origin.url=https://github.com/changyuanhua/lab1.git
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+]0;E64036211@2015cpp: ~/lab1[01;32mE64036211@2015cpp[00m:[01;34m~/lab1[00m$ gitclonehttps://github.com/<your githubaccount>/lab1.g it[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.git[K[A]0;E64036211@2015cpp: ~/lab1[01;32mE64036211@2015cpp[00m:[01;34m~/lab1[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.git [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/lab1.git
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gitc/lab1.gith/lab1.gita/lab1.gitn/lab1.gitg/lab1.gity/lab1.gitu/lab1.gita/lab1.gitn/lab1.gith/lab1.gitu/lab1.gita/lab1.git
+bash: gitclonehttps://github.com/changyuanhua/lab1.git: No such file or directory
+]0;E64036211@2015cpp: ~/lab1[01;32mE64036211@2015cpp[00m:[01;34m~/lab1[00m$ exit
+
+Script done on 2016年03月14日 (週一) 22時44分56秒
