@@ -1,27 +1,40 @@
-Script started on 2016年03月14日 (週一) 21時06分50秒
-]0;E64036211@2015cpp: ~E64036211@2015cpp:~$ whoami;ped
-E64036211
-No command 'ped' found, did you mean:
- Command 'pd' from package 'puredata-core' (universe)
- Command 'ed' from package 'ed' (main)
- Command 'sed' from package 'sed' (main)
- Command 'pen' from package 'pen' (universe)
- Command 'pee' from package 'moreutils' (universe)
- Command 'red' from package 'ed' (main)
- Command 'psed' from package 'perl' (main)
- Command 'jed' from package 'jed' (universe)
- Command 'pwd' from package 'coreutils' (main)
- Command 'fped' from package 'fped' (universe)
- Command 'pev' from package 'pev' (universe)
-ped: command not found
-]0;E64036211@2015cpp: ~E64036211@2015cpp:~$ whoami;pwd
+Script started on 2016年03月14日 (週一) 23時08分43秒
+]0;E64036211@2015cpp: ~[01;32mE64036211@2015cpp[00m:[01;34m~[00m$ whoami;pwd
 E64036211
 /home/E64036211
-]0;E64036211@2015cpp: ~E64036211@2015cpp:~$ git config -l
+]0;E64036211@2015cpp: ~[01;32mE64036211@2015cpp[00m:[01;34m~[00m$ git clone -l
+You must specify a repository to clone.
+
+usage: git clone [options] [--] <repo> [<dir>]
+
+    -v, --verbose         be more verbose
+    -q, --quiet           be more quiet
+    --progress            force progress reporting
+    -n, --no-checkout     don't create a checkout
+    --bare                create a bare repository
+    --mirror              create a mirror repository (implies bare)
+    -l, --local           to clone from a local repository
+    --no-hardlinks        don't use local hardlinks, always copy
+    -s, --shared          setup as shared repository
+    --recursive           initialize submodules in the clone
+    --recurse-submodules  initialize submodules in the clone
+    --template <template-directory>
+                          directory from which templates will be used
+    --reference <repo>    reference repository
+    -o, --origin <name>   use <name> instead of 'origin' to track upstream
+    -b, --branch <branch>
+                          checkout <branch> instead of the remote's HEAD
+    -u, --upload-pack <path>
+                          path to git-upload-pack on the remote
+    --depth <depth>       create a shallow clone of that depth
+    --separate-git-dir <gitdir>
+                          separate git dir from working tree
+    -c, --config <key=value>
+                          set config inside the new repository
+
+]0;E64036211@2015cpp: ~[01;32mE64036211@2015cpp[00m:[01;34m~[00m$ git clone -l[2Pwhoami;pwdgit clone -l[C[C[C[1P -l[1P -l[1P -l[1P -lo -ln -lf -li -lg -l
 user.name=changyuanhua
 user.email=chang19960726@gmail.com
-]0;E64036211@2015cpp: ~E64036211@2015cpp:~$ git clone https://github.com/changyuanhua/lab1.git
-fatal: destination path 'lab1' already exists and is not an empty directory.
-]0;E64036211@2015cpp: ~E64036211@2015cpp:~$ exit
+]0;E64036211@2015cpp: ~[01;32mE64036211@2015cpp[00m:[01;34m~[00m$ exit
 
-Script done on 2016年03月14日 (週一) 21時10分46秒
+Script done on 2016年03月14日 (週一) 23時09分37秒
